@@ -53,3 +53,8 @@ The PNGs in `Assets/Resources/Fruits` are simple illustrations. Replace them wit
 ## Notes
 - The login credentials are development defaults and are stored in the code. There is no login screen yet.
 - The game reports only the move count and the number of pairs. There is no timer yet.
+
+## License
+The scripts, card images, and documentation written for this project are released under the [MIT License](LICENSE).
+
+Files that originate from Unity's 3D URP project template (listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)) are © Unity Technologies and remain under the [Unity Companion License](https://unity.com/legal/licenses/unity-companion-license). They are not covered by the MIT License.
