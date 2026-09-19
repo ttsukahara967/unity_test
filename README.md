@@ -2,6 +2,8 @@
 
 A memory (concentration) card game built with Unity, played with fruit pictures. When you clear a round, it sends your score to a companion API server and shows the ranking.
 
+![Gameplay screenshot: a 4×4 board of face-down cards with one cherry card flipped](docs/screenshot-gameplay.png)
+
 ## Related repositories
 
 | Repository | Description |
